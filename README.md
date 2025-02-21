@@ -25,7 +25,7 @@ including:
 
 ## Story
 
-In order to make the case for DevTools to TTS leadership, potential customers, and the wider federal technologist community, we put together a "Short Stack" -- which includes a look at the complexities we aim to simplify, the economy of our approach, and a story from the point of view of our target audience.
+In order to make the case for DevTools to TTS leadership, potential customers, and the wider federal technologist community, we put together a "Short Stack" which includes a story from the point of view of our target audience.
 [DevTools Short Stack](./doc/DevTools_shortstack.pdf)
 
 ## History
